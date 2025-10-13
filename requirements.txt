@@ -1,0 +1,14 @@
+# Core scientific computing
+numpy==2.3.2
+pandas==2.3.2
+matplotlib==3.10.6
+
+# Jupyter environment
+jupyter==1.1.1
+notebook==7.4.5
+ipykernel==6.30.1
+ipython==9.5.0
+ipywidgets==8.1.7
+
+# Utilities
+python-dotenv==1.1.1
