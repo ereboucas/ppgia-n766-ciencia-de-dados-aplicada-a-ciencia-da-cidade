@@ -26,3 +26,8 @@ Simulates urban segregation patterns and emergent behaviors in self-organizing s
 
 Studies urban population distributions, power law fitting, and model validation through log-log analysis.
 
+### Isochrone Mapping (`03-isochrone_mapping/`)
+- **isochrone_analysis.ipynb** - Urban accessibility analysis using isochrone maps
+
+Explores equal-time accessibility zones in urban networks. Analyzes transportation mode differences (walking, cycling, driving), temporal dynamics (rush hour vs off-peak), accessibility equity across neighborhoods, and optimal service location strategies. Demonstrates applications in transit planning, facility placement, and urban equity analysis.
+
