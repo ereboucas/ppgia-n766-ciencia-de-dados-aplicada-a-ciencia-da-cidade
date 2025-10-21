@@ -31,3 +31,10 @@ Studies urban population distributions, power law fitting, and model validation 
 
 Explores equal-time accessibility zones in urban networks. Analyzes transportation mode differences (walking, cycling, driving), temporal dynamics (rush hour vs off-peak), accessibility equity across neighborhoods, and optimal service location strategies. Demonstrates applications in transit planning, facility placement, and urban equity analysis.
 
+### Scaling Analysis (`04-beta/`)
+- **homicides.ipynb** - Full dataset analysis of homicides vs population scaling
+- **homicides_10000.ipynb** - Analysis for cities ≥ 10,000 inhabitants
+- **homicides_10000_1000000.ipynb** - Analysis for medium/large cities (10k-1M population)
+
+Investigates the relationship between homicides and population across Brazilian municipalities (1980-2022) using scaling laws. Performs log-log regression analysis to extract scaling exponent β, revealing whether the relationship is superlinear (β>1), linear (β≈1), or sublinear (β<1). Tracks temporal evolution of β to understand how urban violence scaling patterns change over decades. Includes multiple population filters to analyze different city size ranges and exclude outliers.
+
