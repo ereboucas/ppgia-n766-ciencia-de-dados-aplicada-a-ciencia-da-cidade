@@ -58,3 +58,9 @@ Investigates percolation theory applied to urban systems. Implements site percol
 
 Documentation and resources for analyzing global human settlement patterns using GHSL (Global Human Settlement Layer) data. Focuses on population density visualization, urban extent mapping, and settlement growth analysis.
 
+### 09 - Final Assignment (`09-assignment/`)
+- **final_assignment_simplified.ipynb** - Optimal placement of government services in Ceará (English)
+- **final_assignment_simplified_pt.ipynb** - Portuguese version
+
+Applies urban data science concepts to determine optimal placement of government services in Ceará municipalities. Combines Voronoi diagrams for service area allocation with Weighted K-Means Clustering for facility location optimization. Uses IDHM (Human Development Index) data from Atlas do Desenvolvimento Humano and population data from IBGE to weight placement decisions, prioritizing underserved areas with lower development indicators.
+
